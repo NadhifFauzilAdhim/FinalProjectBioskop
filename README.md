@@ -1,7 +1,7 @@
 Arabis Studio Simple Bioskop Apps Write In C#
 ## Authors
 
-- [@NadhifFauzilA](https://www.github.com/NadhifFauzilA)
+- [@NadhifFauzilA](https://www.github.com/NadhifFauzilAdhim)
 
 
 ## About
