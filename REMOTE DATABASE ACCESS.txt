@@ -1,6 +1,0 @@
-BiskopDb MYSQL Remote Database Access
-Host     : 5ol.h.filess.io
-Database : BioskopDb_pricebrief
-Username : BioskopDb_pricebrief
-Port     : 3306
-Pass     : 238ff8673efadfa819958c065cfd692e63ab641a
